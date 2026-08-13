@@ -1,0 +1,389 @@
+{
+  "items": [
+    {
+      "description": "kaiaai/LDS supports quite a few of these models.",
+      "items": [],
+      "title": "kaiaai/LDS library"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SDK v3.0 for X1, X2, D2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-15T13:27:58Z",
+            "owner": "camsense",
+            "repo": "SDK_V3.0",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SDK for T2, X1, X2, D2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-18T06:01:08Z",
+            "owner": "camsense",
+            "repo": "T2SDK",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SDK for L2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-12T02:33:45Z",
+            "owner": "camsense",
+            "repo": "L2SDK",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS2 SDK hclidar X2M",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-10-18T12:53:30Z",
+            "owner": "camsense",
+            "repo": "hclidar_driver_ros2",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS1 driver for X2M",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-08-20T01:33:48Z",
+            "owner": "camsense",
+            "repo": "ROS_SDK",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SDK for D2YE, D3YD, PMA1",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-14T09:54:44Z",
+            "owner": "camsense",
+            "repo": "SDK_YJ",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SDK for D2YE D3YD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-09-27T06:12:30Z",
+            "owner": "camsense",
+            "repo": "YJ",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SharkSDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-09-26T13:14:09Z",
+            "owner": "camsense",
+            "repo": "SharkSDK",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS1 driver for T2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-10-17T12:40:20Z",
+            "owner": "camsense",
+            "repo": "T2_ROS1",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Demo SDK, documentation (Chinese)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-12-12T02:27:36Z",
+            "owner": "camsense",
+            "repo": "NoiseFilter",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MPro SDK demo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-11-22T10:03:15Z",
+            "owner": "camsense",
+            "repo": "MproTest",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Camsense USB driver, documentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-29T02:40:28Z",
+            "owner": "camsense",
+            "repo": "USB_Driver",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS1 SDK X1M, X2M, D2M",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-08-20T01:33:48Z",
+            "owner": "camsense",
+            "repo": "ROS_SDK",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Camsense"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ROS2, ROS1, protocol, 3D model",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-03T22:59:44Z",
+            "owner": "Vidicon",
+            "repo": "camsense-X1",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Camsense X1 with M5 Stack, Arduino code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-08-29T17:05:47Z",
+            "owner": "yishii",
+            "repo": "LiDAR_Camsense_X1_M5Stack",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python visualization code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-01-09T20:20:22Z",
+            "owner": "IljaRukin",
+            "repo": "camsense_X1_lidar",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Camsense X1"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "3irobotix SDK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-03-24T15:37:39Z",
+            "owner": "Theara-Seng",
+            "repo": "lidar_sensor_delta_2a",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust driver",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-08-02T20:15:28Z",
+            "owner": "jeroenvervaeke",
+            "repo": "delta_2a_lidar",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "3irobotix Delta-2A"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LDS006 connected to STM32 and LCD; protocol",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-12-21T16:18:59Z",
+            "owner": "Aluminum-z",
+            "repo": "Laser-Radar-LDS-006-Drive-Test",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arduino sketch, Python code, wiring",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-11T08:44:37Z",
+            "owner": "opravdin",
+            "repo": "lds-006-reverse-engineering",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flash LDS-006 with custom firmware",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-11-22T19:48:53Z",
+            "owner": "0x416c6578",
+            "repo": "lds-006-firmware",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESP32 library for LDS-006",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-05-07T13:58:40Z",
+            "owner": "lemarsienvoyageur",
+            "repo": "LDS-006-ESP32",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROS driver",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-03-05T13:31:01Z",
+            "owner": "manuelilg",
+            "repo": "lds006_lidar_driver",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "reverse engineering, photos, protocol",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Python code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-03-28T14:03:03Z",
+                "owner": "msoftware",
+                "repo": "LDS-006-Lidar-Sensor-Reverse-Engineering",
+                "stars": 9
+              }
+            }
+          ]
+        }
+      ],
+      "title": "LDS-006 (Ecovacs Deebot)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:20:40.916Z",
+    "original_repository": "kaiaai/awesome-2d-lidars",
+    "original_repository_sha": "9114fbbddedc7a880d56a5af2bdc43664e479027",
+    "enhanced_repository": "enhansome/enhansome-2d-lidars",
+    "enhanced_repository_description": null,
+    "title": "Awesome 2d lidars with stars"
+  }
+}
