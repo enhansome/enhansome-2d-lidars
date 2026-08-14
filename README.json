@@ -207,7 +207,7 @@
             "last_commit": "2020-10-03T22:59:44Z",
             "owner": "Vidicon",
             "repo": "camsense-X1",
-            "stars": 72
+            "stars": 73
           }
         },
         {
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:20:40.916Z",
+    "last_updated": "2026-08-14T05:00:59.931Z",
     "original_repository": "kaiaai/awesome-2d-lidars",
     "original_repository_sha": "9114fbbddedc7a880d56a5af2bdc43664e479027",
     "enhanced_repository": "enhansome/enhansome-2d-lidars",
