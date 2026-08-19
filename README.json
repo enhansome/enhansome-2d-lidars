@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "kaiaai/LDS supports quite a few of these models.",
-      "items": [],
-      "title": "kaiaai/LDS library"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 505706198,
             "language": "C++",
             "last_commit": "2024-07-15T13:27:58Z",
             "owner": "camsense",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 661504469,
             "language": "C++",
             "last_commit": "2024-07-18T06:01:08Z",
             "owner": "camsense",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 662046964,
             "language": "C++",
             "last_commit": "2024-07-12T02:33:45Z",
             "owner": "camsense",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 586128638,
             "language": "C++",
             "last_commit": "2023-10-18T12:53:30Z",
             "owner": "camsense",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 512071658,
             "language": "C++",
             "last_commit": "2022-08-20T01:33:48Z",
             "owner": "camsense",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 916540205,
             "language": null,
             "last_commit": "2025-01-14T09:54:44Z",
             "owner": "camsense",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 863902888,
             "language": "C++",
             "last_commit": "2024-09-27T06:12:30Z",
             "owner": "camsense",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 496157507,
             "language": "C++",
             "last_commit": "2024-09-26T13:14:09Z",
             "owner": "camsense",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 705636928,
             "language": "C++",
             "last_commit": "2023-10-17T12:40:20Z",
             "owner": "camsense",
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 577121336,
             "language": "C++",
             "last_commit": "2022-12-12T02:27:36Z",
             "owner": "camsense",
@@ -155,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 569200224,
             "language": "C++",
             "last_commit": "2022-11-22T10:03:15Z",
             "owner": "camsense",
@@ -169,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 529170786,
             "language": null,
             "last_commit": "2022-08-29T02:40:28Z",
             "owner": "camsense",
@@ -183,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 512071658,
             "language": "C++",
             "last_commit": "2022-08-20T01:33:48Z",
             "owner": "camsense",
@@ -194,7 +202,7 @@
       "title": "Camsense"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -203,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255609394,
             "language": null,
             "last_commit": "2020-10-03T22:59:44Z",
             "owner": "Vidicon",
@@ -217,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 291313227,
             "language": "C++",
             "last_commit": "2020-08-29T17:05:47Z",
             "owner": "yishii",
@@ -231,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 312565284,
             "language": "Jupyter Notebook",
             "last_commit": "2021-01-09T20:20:22Z",
             "owner": "IljaRukin",
@@ -242,7 +253,7 @@
       "title": "Camsense X1"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -251,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 351127610,
             "language": "C++",
             "last_commit": "2021-03-24T15:37:39Z",
             "owner": "Theara-Seng",
@@ -265,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 370125357,
             "language": "Rust",
             "last_commit": "2021-08-02T20:15:28Z",
             "owner": "jeroenvervaeke",
@@ -276,7 +289,7 @@
       "title": "3irobotix Delta-2A"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -285,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 398566393,
             "language": "C",
             "last_commit": "2021-12-21T16:18:59Z",
             "owner": "Aluminum-z",
@@ -299,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 430730132,
             "language": "Python",
             "last_commit": "2023-09-11T08:44:37Z",
             "owner": "opravdin",
@@ -313,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 405698846,
             "language": "C",
             "last_commit": "2021-11-22T19:48:53Z",
             "owner": "0x416c6578",
@@ -327,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 521334893,
             "language": "C++",
             "last_commit": "2023-05-07T13:58:40Z",
             "owner": "lemarsienvoyageur",
@@ -341,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 598294605,
             "language": "C++",
             "last_commit": "2023-03-05T13:31:01Z",
             "owner": "manuelilg",
@@ -360,6 +378,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 477030004,
                 "language": "Python",
                 "last_commit": "2023-03-28T14:03:03Z",
                 "owner": "msoftware",
@@ -371,16 +390,12 @@
         }
       ],
       "title": "LDS-006 (Ecovacs Deebot)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Star History"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:57:47.649Z",
+    "last_updated": "2026-08-19T12:05:28.873Z",
     "original_repository": "kaiaai/awesome-2d-lidars",
+    "original_repository_id": 776341662,
     "original_repository_sha": "9114fbbddedc7a880d56a5af2bdc43664e479027",
     "enhanced_repository": "enhansome/enhansome-2d-lidars",
     "enhanced_repository_description": null,
