@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "YDLIDAR SCL",
-          "description": "Tria Arduino code",
+          "description": "Tria            Arduino code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -21,7 +21,7 @@
         {
           "node_type": "item",
           "title": "XIAOMI LDS01RR",
-          "description": "ToF 5Hz 0.15-9 ~$37 1,095h Class 1 Spec ROS2, Win",
+          "description": "ToF 5Hz  0.15-9  ~$37 1,095h Class 1     Spec ROS2, Win",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -36,7 +36,7 @@
         {
           "node_type": "item",
           "title": "Neato XV11",
-          "description": "Tria 5Hz ~2KHz 0.15-6? ~$35 195g ROS2 Char",
+          "description": "Tria 5Hz ~2KHz 0.15-6?  ~$35     195g  ROS2 Char",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -51,7 +51,7 @@
         {
           "node_type": "item",
           "title": "3irobotics Delta-2A",
-          "description": "Tria 4-10(6.2)Hz 2-5KHz 0.13-8@100% <1%@5m ~$28 Class 1 1K 780nm 175g SDK Protocol",
+          "description": "Tria 4-10(6.2)Hz 2-5KHz 0.13-8@100% <1%@5m ~$28  Class 1 1K 780nm 175g  SDK Protocol",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -66,7 +66,7 @@
         {
           "node_type": "item",
           "title": "3irobotics Delta-2G",
-          "description": "Tria ~5.25Hz? ~1.9KHz? 0.15-5? ~$17 SDK Protocol",
+          "description": "Tria ~5.25Hz? ~1.9KHz? 0.15-5?  ~$17       SDK Protocol",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -81,7 +81,7 @@
         {
           "node_type": "item",
           "title": "Hitachi-LG HLS-LFCD2",
-          "description": "ToF 5Hz 1.8KHz 0.12-3.5 ~$28 Class 1 10K? Spec Spec ROS2",
+          "description": "ToF 5Hz 1.8KHz 0.12-3.5  ~$28  Class 1 10K?    Spec Spec ROS2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -96,7 +96,7 @@
         {
           "node_type": "item",
           "title": "Hitachi-LG HLS-LFCD3",
-          "description": "Tria 5Hz 2.3KHz 0.16-8 ~$17 1,000h Class 1 25K? Spec ROS2",
+          "description": "Tria 5Hz 2.3KHz 0.16-8  ~$17 1,000h Class 1 25K?    Spec ROS2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -111,7 +111,7 @@
         {
           "node_type": "item",
           "title": "LDROBOT LD14P",
-          "description": "Tria 2..8(6)Hz 4KHz 0.1-6@4%-8@80% ~$35 2,200h Class 1 80K? 793nm 100g Datasheet Spec Protocol SDK/ROS2",
+          "description": "Tria 2..8(6)Hz 4KHz 0.1-6@4%-8@80%  ~$35 2,200h Class 1 80K? 793nm 100g  Datasheet Spec Protocol SDK/ROS2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -126,7 +126,7 @@
         {
           "node_type": "item",
           "title": "LDROBOT LD-AIR",
-          "description": "ToF? 5..13Hz 4.5KHz 0.02-12 ±45mm $129 10K hrs Class 1 20K 47g Kickstarter 2021, Indiegogo, Driver",
+          "description": "ToF? 5..13Hz 4.5KHz 0.02-12 ±45mm $129 10K hrs Class 1 20K  47g  Kickstarter 2021, Indiegogo, Driver",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -141,7 +141,7 @@
         {
           "node_type": "item",
           "title": "LDROBOT LD19",
-          "description": "ToF 10Hz 4.5KHz 0.02-12 10mm 3..12m 10K hrs Class 1 30K Docs,SDK, Driver",
+          "description": "ToF 10Hz 4.5KHz 0.02-12 10mm 3..12m  10K hrs Class 1 30K    Docs,SDK, Driver",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -156,7 +156,7 @@
         {
           "node_type": "item",
           "title": "LDROBOT LD06",
-          "description": "ToF 5..13(10)Hz 4.5KHz 0.02-12 15mm $99 10K hrs Class 1 25K 905nm Docs, Driver",
+          "description": "ToF 5..13(10)Hz 4.5KHz 0.02-12 15mm $99 10K hrs Class 1 25K 905nm   Docs, Driver",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -186,7 +186,7 @@
         {
           "node_type": "item",
           "title": "Camsense X1",
-          "description": "Tria 5.2Hz 2.08KHz 0.1-8 ~$19 Class 1 50K Code Product SDK",
+          "description": "Tria 5.2Hz 2.08KHz 0.1-8  ~$19  Class 1 50K    Code Product SDK",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -201,7 +201,7 @@
         {
           "node_type": "item",
           "title": "Camsense X2",
-          "description": "Tria 5.2Hz 3(2.08)KHz 0.12-8 Class 1 50K 780nm EEL, 808nm VCSEL Product SDK",
+          "description": "Tria 5.2Hz 3(2.08)KHz 0.12-8    Class 1 50K  780nm EEL, 808nm VCSEL  Product SDK",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -216,7 +216,7 @@
         {
           "node_type": "item",
           "title": "Camsense D2",
-          "description": "Tria 5.6,6Hz 2.08,3KHz 0.15-8 Class 1 50K 780nm, 940nm Product SDK",
+          "description": "Tria 5.6,6Hz 2.08,3KHz 0.15-8    Class 1 50K  780nm, 940nm  Product SDK",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -231,7 +231,7 @@
         {
           "node_type": "item",
           "title": "Camsense T2",
-          "description": "ToF 5..8Hz 5(4.688)KHz 0.06-12 Class 1 60K 905nm Product SDK",
+          "description": "ToF 5..8Hz 5(4.688)KHz 0.06-12    Class 1 60K  905nm  Product SDK",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -246,7 +246,7 @@
         {
           "node_type": "item",
           "title": "COIN-D4A",
-          "description": "ToF 10Hz <$20 Datasheet, Protocol, Driver",
+          "description": "ToF 10Hz    <$20       Datasheet, Protocol, Driver",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -261,7 +261,7 @@
         {
           "node_type": "item",
           "title": "Camsense \"Mini 360\"",
-          "description": "ToF 10Hz <$20 Protocol",
+          "description": "ToF 10Hz    <$20       Protocol",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -952,7 +952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:58:43.914Z",
+    "last_updated": "2026-08-25T06:29:05.176Z",
     "original_repository": "kaiaai/awesome-2d-lidars",
     "original_repository_id": 776341662,
     "original_repository_sha": "9114fbbddedc7a880d56a5af2bdc43664e479027",
