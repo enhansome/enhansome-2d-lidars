@@ -12,7 +12,7 @@
             "archived": false,
             "id": 743314949,
             "language": "C++",
-            "last_commit": "2026-08-23T03:04:42Z",
+            "last_commit": "2026-08-25T01:38:39Z",
             "owner": "kaiaai",
             "repo": "LDS",
             "stars": 219
@@ -318,7 +318,7 @@
             "archived": false,
             "id": 743314949,
             "language": "C++",
-            "last_commit": "2026-08-23T03:04:42Z",
+            "last_commit": "2026-08-25T01:38:39Z",
             "owner": "kaiaai",
             "repo": "LDS",
             "stars": 219
@@ -952,7 +952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:44:09.083Z",
+    "last_updated": "2026-08-25T03:58:43.914Z",
     "original_repository": "kaiaai/awesome-2d-lidars",
     "original_repository_id": 776341662,
     "original_repository_sha": "9114fbbddedc7a880d56a5af2bdc43664e479027",
