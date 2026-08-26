@@ -135,7 +135,7 @@
             "last_commit": "2026-06-11T21:06:31Z",
             "owner": "Myzhar",
             "repo": "ldrobot-lidar-ros2",
-            "stars": 102
+            "stars": 103
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-06-11T21:06:31Z",
             "owner": "Myzhar",
             "repo": "ldrobot-lidar-ros2",
-            "stars": 102
+            "stars": 103
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-06-11T21:06:31Z",
             "owner": "Myzhar",
             "repo": "ldrobot-lidar-ros2",
-            "stars": 102
+            "stars": 103
           }
         },
         {
@@ -952,7 +952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:29:05.176Z",
+    "last_updated": "2026-08-26T04:02:28.522Z",
     "original_repository": "kaiaai/awesome-2d-lidars",
     "original_repository_id": 776341662,
     "original_repository_sha": "9114fbbddedc7a880d56a5af2bdc43664e479027",
