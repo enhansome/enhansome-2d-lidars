@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T01:38:39Z",
             "owner": "kaiaai",
             "repo": "LDS",
-            "stars": 219
+            "stars": 220
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-07-06T00:59:28Z",
             "owner": "kaiaai",
             "repo": "awesome-2d-lidars",
-            "stars": 127
+            "stars": 128
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2026-08-25T01:38:39Z",
             "owner": "kaiaai",
             "repo": "LDS",
-            "stars": 219
+            "stars": 220
           }
         }
       ],
@@ -405,7 +405,7 @@
             "last_commit": "2025-09-11T12:25:31Z",
             "owner": "YahboomTechnology",
             "repo": "EAI-X3-X3ProLidar",
-            "stars": 16
+            "stars": 17
           }
         }
       ],
@@ -426,7 +426,7 @@
             "last_commit": "2025-09-11T12:25:31Z",
             "owner": "YahboomTechnology",
             "repo": "EAI-X3-X3ProLidar",
-            "stars": 16
+            "stars": 17
           }
         }
       ],
@@ -952,9 +952,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:02:28.522Z",
-    "original_repository": "kaiaai/awesome-2d-lidars",
-    "original_repository_id": 776341662,
+    "last_updated": "2026-08-27T11:17:39.344Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 776341662,
+      "language": null,
+      "last_commit": "2026-07-06T00:59:28Z",
+      "owner": "kaiaai",
+      "repo": "awesome-2d-lidars",
+      "stars": 128
+    },
     "original_repository_sha": "9114fbbddedc7a880d56a5af2bdc43664e479027",
     "enhanced_repository": "enhansome/enhansome-2d-lidars",
     "enhanced_repository_description": null,
