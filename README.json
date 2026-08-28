@@ -15,8 +15,9 @@
             "last_commit": "2026-08-25T01:38:39Z",
             "owner": "kaiaai",
             "repo": "LDS",
-            "stars": 220
-          }
+            "stars": 222
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "iliasam",
             "repo": "LDS01RR_lidar",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mjstn",
             "repo": "xv_11_driver",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "CWRU-AutonomousVehiclesLab",
             "repo": "Delta-2B-Lidar-SDK",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "NotBlackMagic",
             "repo": "Delta-2G-LiDAR-Driver",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "ROBOTIS-GIT",
             "repo": "hls_lfcd_lds_driver",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "ROBOTIS-GIT",
             "repo": "ld08_driver",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "ldrobotSensorTeam",
             "repo": "ldlidar_sl_ros2",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "Myzhar",
             "repo": "ldrobot-lidar-ros2",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "Myzhar",
             "repo": "ldrobot-lidar-ros2",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "Myzhar",
             "repo": "ldrobot-lidar-ros2",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "g0mb4",
             "repo": "mb_1r2t_ros2",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "Vidicon",
             "repo": "camsense-X1",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "camsense",
             "repo": "T2SDK",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "camsense",
             "repo": "T2SDK",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "camsense",
             "repo": "T2SDK",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -255,8 +271,9 @@
             "last_commit": "2026-07-06T00:59:28Z",
             "owner": "kaiaai",
             "repo": "awesome-2d-lidars",
-            "stars": 128
-          }
+            "stars": 130
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "devemin",
             "repo": "UnknownLiDARMini_M5StackCore2",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "Vidicon",
             "repo": "ld07_lidar_node",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "Vidicon",
             "repo": "weird_LD06",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         }
       ],
       "title": "Comparison Table"
@@ -321,8 +341,9 @@
             "last_commit": "2026-08-25T01:38:39Z",
             "owner": "kaiaai",
             "repo": "LDS",
-            "stars": 220
-          }
+            "stars": 222
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         }
       ],
       "title": "kaiaai/LDS library"
@@ -343,7 +364,8 @@
             "owner": "Xevel",
             "repo": "NXV11",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         }
       ],
       "title": "Neato XV11"
@@ -364,7 +386,8 @@
             "owner": "Roborock-OpenSource",
             "repo": "Cullinan",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         }
       ],
       "title": "Xiaomi Mi 1st gen LDS02RR"
@@ -385,7 +408,8 @@
             "owner": "iliasam",
             "repo": "LDS01RR_lidar",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         }
       ],
       "title": "Xiaomi Mi LDS01RR"
@@ -406,7 +430,8 @@
             "owner": "YahboomTechnology",
             "repo": "EAI-X3-X3ProLidar",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         }
       ],
       "title": "YDLIDAR X3 PRO"
@@ -427,7 +452,8 @@
             "owner": "YahboomTechnology",
             "repo": "EAI-X3-X3ProLidar",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         }
       ],
       "title": "YDLIDAR X3"
@@ -450,7 +476,8 @@
                 "owner": "ldrobotSensorTeam",
                 "repo": "ldlidar_sl_ros2",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T15:20:32.456Z"
             }
           ],
           "description": null,
@@ -477,7 +504,8 @@
                     "owner": "ldrobotSensorTeam",
                     "repo": "sdk_ld06_raspberry_ros",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:20:32.456Z"
                 }
               ]
             }
@@ -505,7 +533,8 @@
             "owner": "camsense",
             "repo": "SDK_V3.0",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -520,7 +549,8 @@
             "owner": "camsense",
             "repo": "T2SDK",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -535,7 +565,8 @@
             "owner": "camsense",
             "repo": "L2SDK",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -550,7 +581,8 @@
             "owner": "camsense",
             "repo": "hclidar_driver_ros2",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -565,7 +597,8 @@
             "owner": "camsense",
             "repo": "ROS_SDK",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -580,7 +613,8 @@
             "owner": "camsense",
             "repo": "SDK_YJ",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -595,7 +629,8 @@
             "owner": "camsense",
             "repo": "YJ",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -610,7 +645,8 @@
             "owner": "camsense",
             "repo": "SharkSDK",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -625,7 +661,8 @@
             "owner": "camsense",
             "repo": "T2_ROS1",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -640,7 +677,8 @@
             "owner": "camsense",
             "repo": "NoiseFilter",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -655,7 +693,8 @@
             "owner": "camsense",
             "repo": "MproTest",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -670,7 +709,8 @@
             "owner": "camsense",
             "repo": "USB_Driver",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -685,7 +725,8 @@
             "owner": "camsense",
             "repo": "ROS_SDK",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         }
       ],
       "title": "Camsense"
@@ -706,7 +747,8 @@
             "owner": "Vidicon",
             "repo": "camsense-X1",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -721,7 +763,8 @@
             "owner": "yishii",
             "repo": "LiDAR_Camsense_X1_M5Stack",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -736,7 +779,8 @@
             "owner": "IljaRukin",
             "repo": "camsense_X1_lidar",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         }
       ],
       "title": "Camsense X1"
@@ -757,7 +801,8 @@
             "owner": "Theara-Seng",
             "repo": "lidar_sensor_delta_2a",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -772,7 +817,8 @@
             "owner": "jeroenvervaeke",
             "repo": "delta_2a_lidar",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         }
       ],
       "title": "3irobotix Delta-2A"
@@ -793,7 +839,8 @@
             "owner": "CWRU-AutonomousVehiclesLab",
             "repo": "Delta-2B-Lidar-SDK",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         }
       ],
       "title": "3irobotix Delta-2B"
@@ -814,7 +861,8 @@
             "owner": "NotBlackMagic",
             "repo": "Delta-2G-LiDAR-Driver",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         }
       ],
       "title": "3irobotix Delta-3A"
@@ -840,7 +888,8 @@
                 "owner": "NotBlackMagic",
                 "repo": "Delta-2G-LiDAR-Driver",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T15:20:32.456Z"
             }
           ]
         }
@@ -863,7 +912,8 @@
             "owner": "Aluminum-z",
             "repo": "Laser-Radar-LDS-006-Drive-Test",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -878,7 +928,8 @@
             "owner": "opravdin",
             "repo": "lds-006-reverse-engineering",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -893,7 +944,8 @@
             "owner": "0x416c6578",
             "repo": "lds-006-firmware",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -908,7 +960,8 @@
             "owner": "lemarsienvoyageur",
             "repo": "LDS-006-ESP32",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "item",
@@ -923,7 +976,8 @@
             "owner": "manuelilg",
             "repo": "lds006_lidar_driver",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T15:20:32.456Z"
         },
         {
           "node_type": "group",
@@ -943,7 +997,8 @@
                 "owner": "msoftware",
                 "repo": "LDS-006-Lidar-Sensor-Reverse-Engineering",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T15:20:32.456Z"
             }
           ]
         }
@@ -952,7 +1007,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:10:34.251Z",
+    "last_updated": "2026-08-28T15:20:32.456Z",
     "original_repository_info": {
       "archived": false,
       "id": 776341662,
@@ -960,7 +1015,7 @@
       "last_commit": "2026-07-06T00:59:28Z",
       "owner": "kaiaai",
       "repo": "awesome-2d-lidars",
-      "stars": 128
+      "stars": 130
     },
     "original_repository_sha": "9114fbbddedc7a880d56a5af2bdc43664e479027",
     "enhanced_repository": "enhansome/enhansome-2d-lidars",
