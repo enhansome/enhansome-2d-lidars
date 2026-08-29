@@ -10,12 +10,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arduino LiDAR library supporting YDLIDAR X2/X3/X4, RPLIDAR A1, Xiaomi LDS02RR, Neato XV11, LD14P, CAMSENSE X1, Delta-2A/2B/2G",
+            "homepage": null,
             "id": 743314949,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T01:38:39Z",
+            "open_issues": 1,
             "owner": "kaiaai",
             "repo": "LDS",
-            "stars": 222
+            "stars": 222,
+            "topics": [
+              "3irobotix",
+              "arduino-library",
+              "camsense",
+              "camsense-x1",
+              "delta-2a",
+              "ld19-lidar",
+              "ldrobot",
+              "lds01rr",
+              "lds02rr",
+              "lidar",
+              "neato",
+              "neato-xv",
+              "rplidar",
+              "rplidar-a1",
+              "rplidar-c1",
+              "slamtec",
+              "ydlidar",
+              "ydlidar-x2",
+              "ydlidar-x4"
+            ]
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -26,12 +51,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some info and soft for LDS01RR Lidar",
+            "homepage": null,
             "id": 415547881,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-01-24T14:46:08Z",
+            "open_issues": 1,
             "owner": "iliasam",
             "repo": "LDS01RR_lidar",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -42,12 +72,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS2 port from the xv_11_laser_driver  extensively used in ROS",
+            "homepage": null,
             "id": 318959426,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-19T07:19:51Z",
+            "open_issues": 2,
             "owner": "mjstn",
             "repo": "xv_11_driver",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -58,12 +93,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Migrated from 3irobotics website. Original copy of Lidar driver.",
+            "homepage": null,
             "id": 204944410,
             "language": "C++",
+            "license": null,
             "last_commit": "2019-08-28T14:00:47Z",
+            "open_issues": 0,
             "owner": "CWRU-AutonomousVehiclesLab",
             "repo": "Delta-2B-Lidar-SDK",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -74,12 +114,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 529632894,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-08-27T16:10:26Z",
+            "open_issues": 0,
             "owner": "NotBlackMagic",
             "repo": "Delta-2G-LiDAR-Driver",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -90,12 +135,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS package for HLDS HLS-LFCD LDS driver ",
+            "homepage": "http://turtlebot3.robotis.com",
             "id": 75682625,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-06-20T02:26:34Z",
+            "open_issues": 1,
             "owner": "ROBOTIS-GIT",
             "repo": "hls_lfcd_lds_driver",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "distance",
+              "laser",
+              "navigation",
+              "package",
+              "robotis",
+              "ros",
+              "sensor",
+              "slam"
+            ]
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -106,12 +165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS package for TurtleBot3 LD08 Lidar",
+            "homepage": null,
             "id": 455466035,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-20T02:24:57Z",
+            "open_issues": 1,
             "owner": "ROBOTIS-GIT",
             "repo": "ld08_driver",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -122,12 +186,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LDROBOT Triangle LiDAR ROS2 Package",
+            "homepage": null,
             "id": 468585984,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-04-10T09:35:56Z",
+            "open_issues": 5,
             "owner": "ldrobotSensorTeam",
             "repo": "ldlidar_sl_ros2",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "ld14",
+              "ros2"
+            ]
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -138,12 +210,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS 2 packages for LDRobot lidar using Lifecycle (managed nodes)",
+            "homepage": "https://myzhar.tech/projects/ros2/ldrobot-lidar-ros2/",
             "id": 406478477,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-11T21:06:31Z",
+            "open_issues": 2,
             "owner": "Myzhar",
             "repo": "ldrobot-lidar-ros2",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "laser",
+              "ld-air",
+              "ld16",
+              "ld19",
+              "ldlidar",
+              "lifecycle",
+              "ros",
+              "scan"
+            ]
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -154,12 +240,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS 2 packages for LDRobot lidar using Lifecycle (managed nodes)",
+            "homepage": "https://myzhar.tech/projects/ros2/ldrobot-lidar-ros2/",
             "id": 406478477,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-11T21:06:31Z",
+            "open_issues": 2,
             "owner": "Myzhar",
             "repo": "ldrobot-lidar-ros2",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "laser",
+              "ld-air",
+              "ld16",
+              "ld19",
+              "ldlidar",
+              "lifecycle",
+              "ros",
+              "scan"
+            ]
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -170,12 +270,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS 2 packages for LDRobot lidar using Lifecycle (managed nodes)",
+            "homepage": "https://myzhar.tech/projects/ros2/ldrobot-lidar-ros2/",
             "id": 406478477,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-11T21:06:31Z",
+            "open_issues": 2,
             "owner": "Myzhar",
             "repo": "ldrobot-lidar-ros2",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "laser",
+              "ld-air",
+              "ld16",
+              "ld19",
+              "ldlidar",
+              "lifecycle",
+              "ros",
+              "scan"
+            ]
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -186,12 +300,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ROS2 driver for the MB 1R2T LiDAR.",
+            "homepage": null,
             "id": 463511761,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-29T09:02:19Z",
+            "open_issues": 1,
             "owner": "g0mb4",
             "repo": "mb_1r2t_ros2",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -202,12 +321,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "unofficial reverse engineering of a Chinese LiDAR. Discussed this on my discord: https://discord.gg/zRGJcqa",
+            "homepage": null,
             "id": 255609394,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2020-10-03T22:59:44Z",
+            "open_issues": 1,
             "owner": "Vidicon",
             "repo": "camsense-X1",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -218,12 +342,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "For T2,X1,X2,D2",
+            "homepage": null,
             "id": 661504469,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-07-18T06:01:08Z",
+            "open_issues": 0,
             "owner": "camsense",
             "repo": "T2SDK",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -234,12 +363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "For T2,X1,X2,D2",
+            "homepage": null,
             "id": 661504469,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-07-18T06:01:08Z",
+            "open_issues": 0,
             "owner": "camsense",
             "repo": "T2SDK",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -250,12 +384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "For T2,X1,X2,D2",
+            "homepage": null,
             "id": 661504469,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-07-18T06:01:08Z",
+            "open_issues": 0,
             "owner": "camsense",
             "repo": "T2SDK",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -266,12 +405,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome 2D LiDAR list - specs, protocols, wiring, code, identification photos/videos, performance evaluations",
+            "homepage": "https://kaia.ai/",
             "id": 776341662,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-07-06T00:59:28Z",
+            "open_issues": 1,
             "owner": "kaiaai",
             "repo": "awesome-2d-lidars",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "2d-lidar",
+              "arduino",
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "lidar",
+              "ros",
+              "ros2"
+            ]
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -282,12 +435,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Junk Mini LiDAR code for M5Stack Core2 (ESP32)",
+            "homepage": null,
             "id": 825027128,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-23T22:37:26Z",
+            "open_issues": 0,
             "owner": "devemin",
             "repo": "UnknownLiDARMini_M5StackCore2",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -298,12 +456,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 984084132,
             "language": "C++",
+            "license": null,
             "last_commit": "2025-05-15T11:26:19Z",
+            "open_issues": 0,
             "owner": "Vidicon",
             "repo": "ld07_lidar_node",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -314,12 +477,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a small LD06 lidar but its different than other LD06 lidars ",
+            "homepage": null,
             "id": 834464058,
             "language": null,
+            "license": null,
             "last_commit": "2024-09-03T10:34:12Z",
+            "open_issues": 0,
             "owner": "Vidicon",
             "repo": "weird_LD06",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         }
@@ -336,12 +504,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arduino LiDAR library supporting YDLIDAR X2/X3/X4, RPLIDAR A1, Xiaomi LDS02RR, Neato XV11, LD14P, CAMSENSE X1, Delta-2A/2B/2G",
+            "homepage": null,
             "id": 743314949,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T01:38:39Z",
+            "open_issues": 1,
             "owner": "kaiaai",
             "repo": "LDS",
-            "stars": 222
+            "stars": 222,
+            "topics": [
+              "3irobotix",
+              "arduino-library",
+              "camsense",
+              "camsense-x1",
+              "delta-2a",
+              "ld19-lidar",
+              "ldrobot",
+              "lds01rr",
+              "lds02rr",
+              "lidar",
+              "neato",
+              "neato-xv",
+              "rplidar",
+              "rplidar-a1",
+              "rplidar-c1",
+              "slamtec",
+              "ydlidar",
+              "ydlidar-x2",
+              "ydlidar-x4"
+            ]
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         }
@@ -358,12 +551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hacking of the Neato XV-11 lidar",
+            "homepage": "NXV11",
             "id": 1108968,
             "language": "Java",
+            "license": null,
             "last_commit": "2020-06-10T20:58:11Z",
+            "open_issues": 1,
             "owner": "Xevel",
             "repo": "NXV11",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         }
@@ -380,12 +578,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Lidar based on  Roborock LDS(Laser Distance Sensor) for STEM",
+            "homepage": null,
             "id": 148890504,
             "language": "C",
+            "license": null,
             "last_commit": "2020-10-11T03:10:58Z",
+            "open_issues": 3,
             "owner": "Roborock-OpenSource",
             "repo": "Cullinan",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         }
@@ -402,12 +605,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some info and soft for LDS01RR Lidar",
+            "homepage": null,
             "id": 415547881,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-01-24T14:46:08Z",
+            "open_issues": 1,
             "owner": "iliasam",
             "repo": "LDS01RR_lidar",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         }
@@ -424,12 +632,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YDLIDAR X3 Lidar TOF 360° Scanning Ranging Sensor 8m for ROS Robotics support ROS1 ROS2",
+            "homepage": "https://category.yahboom.net/products/eai-x3",
             "id": 617904455,
             "language": null,
+            "license": null,
             "last_commit": "2025-09-11T12:25:31Z",
+            "open_issues": 1,
             "owner": "YahboomTechnology",
             "repo": "EAI-X3-X3ProLidar",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "lidar",
+              "ros",
+              "ros-melodic",
+              "ros2",
+              "rosrobot",
+              "yahboom"
+            ]
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         }
@@ -446,12 +666,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YDLIDAR X3 Lidar TOF 360° Scanning Ranging Sensor 8m for ROS Robotics support ROS1 ROS2",
+            "homepage": "https://category.yahboom.net/products/eai-x3",
             "id": 617904455,
             "language": null,
+            "license": null,
             "last_commit": "2025-09-11T12:25:31Z",
+            "open_issues": 1,
             "owner": "YahboomTechnology",
             "repo": "EAI-X3-X3ProLidar",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "lidar",
+              "ros",
+              "ros-melodic",
+              "ros2",
+              "rosrobot",
+              "yahboom"
+            ]
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         }
@@ -470,12 +702,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LDROBOT Triangle LiDAR ROS2 Package",
+                "homepage": null,
                 "id": 468585984,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-04-10T09:35:56Z",
+                "open_issues": 5,
                 "owner": "ldrobotSensorTeam",
                 "repo": "ldlidar_sl_ros2",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "ld14",
+                  "ros2"
+                ]
               },
               "first_seen": "2026-08-28T15:20:32.456Z"
             }
@@ -498,12 +738,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Stop the maintenance",
+                    "homepage": "https://github.com/ldrobotSensorTeam/ldlidar_stl_ros",
                     "id": 438639337,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2022-04-22T06:14:05Z",
+                    "open_issues": 1,
                     "owner": "ldrobotSensorTeam",
                     "repo": "sdk_ld06_raspberry_ros",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:20:32.456Z"
                 }
@@ -527,12 +772,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "X1,X2,D2 SDK",
+            "homepage": null,
             "id": 505706198,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-07-15T13:27:58Z",
+            "open_issues": 0,
             "owner": "camsense",
             "repo": "SDK_V3.0",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -543,12 +793,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "For T2,X1,X2,D2",
+            "homepage": null,
             "id": 661504469,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-07-18T06:01:08Z",
+            "open_issues": 0,
             "owner": "camsense",
             "repo": "T2SDK",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -559,12 +814,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "L2 SDK",
+            "homepage": null,
             "id": 662046964,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-07-12T02:33:45Z",
+            "open_issues": 0,
             "owner": "camsense",
             "repo": "L2SDK",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -575,12 +835,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "camsense lidar driver for ROS2",
+            "homepage": null,
             "id": 586128638,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2023-10-18T12:53:30Z",
+            "open_issues": 0,
             "owner": "camsense",
             "repo": "hclidar_driver_ros2",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -591,12 +856,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SDK for ROS1",
+            "homepage": null,
             "id": 512071658,
             "language": "C++",
+            "license": null,
             "last_commit": "2022-08-20T01:33:48Z",
+            "open_issues": 0,
             "owner": "camsense",
             "repo": "ROS_SDK",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -607,12 +877,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "for D2YE, D3YD, PMA1",
+            "homepage": null,
             "id": 916540205,
             "language": null,
+            "license": null,
             "last_commit": "2025-01-14T09:54:44Z",
+            "open_issues": 0,
             "owner": "camsense",
             "repo": "SDK_YJ",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -623,12 +898,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "D2YE D3YD",
+            "homepage": null,
             "id": 863902888,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-09-27T06:12:30Z",
+            "open_issues": 0,
             "owner": "camsense",
             "repo": "YJ",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -639,12 +919,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shark SDK",
+            "homepage": null,
             "id": 496157507,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-09-26T13:14:09Z",
+            "open_issues": 0,
             "owner": "camsense",
             "repo": "SharkSDK",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -655,12 +940,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "T2 driver for ROS1",
+            "homepage": null,
             "id": 705636928,
             "language": "C++",
+            "license": null,
             "last_commit": "2023-10-17T12:40:20Z",
+            "open_issues": 0,
             "owner": "camsense",
             "repo": "T2_ROS1",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -671,12 +961,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Noise Filter,SDK ",
+            "homepage": null,
             "id": 577121336,
             "language": "C++",
+            "license": null,
             "last_commit": "2022-12-12T02:27:36Z",
+            "open_issues": 0,
             "owner": "camsense",
             "repo": "NoiseFilter",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -687,12 +982,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mpro SDK Demo",
+            "homepage": null,
             "id": 569200224,
             "language": "C++",
+            "license": null,
             "last_commit": "2022-11-22T10:03:15Z",
+            "open_issues": 0,
             "owner": "camsense",
             "repo": "MproTest",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -703,12 +1003,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "camsense usb driver download",
+            "homepage": null,
             "id": 529170786,
             "language": null,
+            "license": null,
             "last_commit": "2022-08-29T02:40:28Z",
+            "open_issues": 0,
             "owner": "camsense",
             "repo": "USB_Driver",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -719,12 +1024,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SDK for ROS1",
+            "homepage": null,
             "id": 512071658,
             "language": "C++",
+            "license": null,
             "last_commit": "2022-08-20T01:33:48Z",
+            "open_issues": 0,
             "owner": "camsense",
             "repo": "ROS_SDK",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         }
@@ -741,12 +1051,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "unofficial reverse engineering of a Chinese LiDAR. Discussed this on my discord: https://discord.gg/zRGJcqa",
+            "homepage": null,
             "id": 255609394,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2020-10-03T22:59:44Z",
+            "open_issues": 1,
             "owner": "Vidicon",
             "repo": "camsense-X1",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -757,12 +1072,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 291313227,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2020-08-29T17:05:47Z",
+            "open_issues": 1,
             "owner": "yishii",
             "repo": "LiDAR_Camsense_X1_M5Stack",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -773,12 +1093,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "chinese lidar camsense x1: read data over serial and visualized with python",
+            "homepage": null,
             "id": 312565284,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2021-01-09T20:20:22Z",
+            "open_issues": 0,
             "owner": "IljaRukin",
             "repo": "camsense_X1_lidar",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         }
@@ -795,12 +1120,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 351127610,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-03-24T15:37:39Z",
+            "open_issues": 1,
             "owner": "Theara-Seng",
             "repo": "lidar_sensor_delta_2a",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -811,12 +1141,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust driver for the 3irbotix delta 2A lidar sensor",
+            "homepage": null,
             "id": 370125357,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2021-08-02T20:15:28Z",
+            "open_issues": 0,
             "owner": "jeroenvervaeke",
             "repo": "delta_2a_lidar",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "3irbotix",
+              "dalata2a",
+              "delta-2a",
+              "driver",
+              "lidar",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         }
@@ -833,12 +1175,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Migrated from 3irobotics website. Original copy of Lidar driver.",
+            "homepage": null,
             "id": 204944410,
             "language": "C++",
+            "license": null,
             "last_commit": "2019-08-28T14:00:47Z",
+            "open_issues": 0,
             "owner": "CWRU-AutonomousVehiclesLab",
             "repo": "Delta-2B-Lidar-SDK",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         }
@@ -855,12 +1202,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 529632894,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-08-27T16:10:26Z",
+            "open_issues": 0,
             "owner": "NotBlackMagic",
             "repo": "Delta-2G-LiDAR-Driver",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         }
@@ -882,12 +1234,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 529632894,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-08-27T16:10:26Z",
+                "open_issues": 0,
                 "owner": "NotBlackMagic",
                 "repo": "Delta-2G-LiDAR-Driver",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:20:32.456Z"
             }
@@ -906,12 +1263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 398566393,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-12-21T16:18:59Z",
+            "open_issues": 0,
             "owner": "Aluminum-z",
             "repo": "Laser-Radar-LDS-006-Drive-Test",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -922,12 +1284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reverse engineering of cheap deebot lidar",
+            "homepage": null,
             "id": 430730132,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-09-11T08:44:37Z",
+            "open_issues": 1,
             "owner": "opravdin",
             "repo": "lds-006-reverse-engineering",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -938,12 +1305,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A WIP custom firmware for the LDS-006 LIDAR module.",
+            "homepage": null,
             "id": 405698846,
             "language": "C",
+            "license": null,
             "last_commit": "2021-11-22T19:48:53Z",
+            "open_issues": 4,
             "owner": "0x416c6578",
             "repo": "lds-006-firmware",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "firmware"
+            ]
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -954,12 +1328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "library esp32 for LDS-006",
+            "homepage": null,
             "id": 521334893,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2023-05-07T13:58:40Z",
+            "open_issues": 0,
             "owner": "lemarsienvoyageur",
             "repo": "LDS-006-ESP32",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -970,12 +1349,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ROS driver for the LDS-006 lidar.",
+            "homepage": null,
             "id": 598294605,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2023-03-05T13:31:01Z",
+            "open_issues": 0,
             "owner": "manuelilg",
             "repo": "lds006_lidar_driver",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
         },
@@ -991,12 +1375,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LDS-006 Lidar Sensor Reverse Engineering python sample ",
+                "homepage": null,
                 "id": 477030004,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-28T14:03:03Z",
+                "open_issues": 0,
                 "owner": "msoftware",
                 "repo": "LDS-006-Lidar-Sensor-Reverse-Engineering",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:20:32.456Z"
             }
@@ -1007,15 +1396,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:20:32.456Z",
+    "last_updated": "2026-08-29T04:58:37.294Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome 2D LiDAR list - specs, protocols, wiring, code, identification photos/videos, performance evaluations",
+      "homepage": "https://kaia.ai/",
       "id": 776341662,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-07-06T00:59:28Z",
+      "open_issues": 1,
       "owner": "kaiaai",
       "repo": "awesome-2d-lidars",
-      "stars": 130
+      "stars": 130,
+      "topics": [
+        "2d-lidar",
+        "arduino",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "lidar",
+        "ros",
+        "ros2"
+      ]
     },
     "original_repository_sha": "9114fbbddedc7a880d56a5af2bdc43664e479027",
     "enhanced_repository": "enhansome/enhansome-2d-lidars",
