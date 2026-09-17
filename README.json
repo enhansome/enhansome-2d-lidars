@@ -414,7 +414,7 @@
             "open_issues": 1,
             "owner": "kaiaai",
             "repo": "awesome-2d-lidars",
-            "stars": 131,
+            "stars": 132,
             "topics": [
               "2d-lidar",
               "arduino",
@@ -1272,7 +1272,7 @@
             "open_issues": 0,
             "owner": "Aluminum-z",
             "repo": "Laser-Radar-LDS-006-Drive-Test",
-            "stars": 20,
+            "stars": 21,
             "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
@@ -1384,7 +1384,7 @@
                 "open_issues": 0,
                 "owner": "msoftware",
                 "repo": "LDS-006-Lidar-Sensor-Reverse-Engineering",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:20:32.456Z"
@@ -1396,7 +1396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T08:34:02.075Z",
+    "last_updated": "2026-09-17T08:37:57.901Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 2D LiDAR list - specs, protocols, wiring, code, identification photos/videos, performance evaluations",
@@ -1408,7 +1408,7 @@
       "open_issues": 1,
       "owner": "kaiaai",
       "repo": "awesome-2d-lidars",
-      "stars": 131,
+      "stars": 132,
       "topics": [
         "2d-lidar",
         "arduino",

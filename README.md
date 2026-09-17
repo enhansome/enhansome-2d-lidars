@@ -69,7 +69,7 @@ Please also see this [blog post](https://kaia.ai/blog/arduino-lidar-library/) an
 | Camsense T2             | ToF   | 5..8Hz        | 5(4.688)KHz    | 0.06-12                    |                 |              |              | Class 1 | 60K              |             | 905nm                  |             | [Product](https://www.camsense.cn/en/robot/camsenseT2.html) [SDK](https://github.com/camsense/T2SDK) ⭐ 1 \| 🐛 0 \| 🌐 C++ \| 📅 2024-07-18                                                                                                                                                                                       |
 | ORBBEC MS200            | ToF   | 5..15(10)Hz   | 4.5KHz         | 0.03-12\@90%               |                 | $100         | 10Kh         | Class 1 | 40K              | 40g         | 905nm                  |             | [Product](https://www.orbbec.com/products/lidar/ms200/)                                                                                                                                                                                                                                                                           |
 | LDS-006 (Ecovacs)       |       |               |                |                            |                 | $23          |              |         |                  |             |                        |             | See links below                                                                                                                                                                                                                                                                                                                   |
-| COIN-D4A                | ToF   | 10Hz          |                |                            |                 | <$20         |              |         |                  |             |                        |             | [Datasheet](https://github.com/kaiaai/awesome-2d-lidars/issues/3) ⭐ 131 \| 🐛 1 \| 📅 2026-07-06, [Protocol](https://www.cspctech.com/resources), [Driver](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/coind4.py) ⭐ 17 \| 🐛 3 \| 🌐 JavaScript \| 📅 2026-09-15                                               |
+| COIN-D4A                | ToF   | 10Hz          |                |                            |                 | <$20         |              |         |                  |             |                        |             | [Datasheet](https://github.com/kaiaai/awesome-2d-lidars/issues/3) ⭐ 132 \| 🐛 1 \| 📅 2026-07-06, [Protocol](https://www.cspctech.com/resources), [Driver](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/coind4.py) ⭐ 17 \| 🐛 3 \| 🌐 JavaScript \| 📅 2026-09-15                                               |
 | Camsense "Mini 360"     | ToF   | 10Hz          |                |                            |                 | <$20         |              |         |                  |             |                        |             | [Protocol](https://github.com/devemin/UnknownLiDARMini_M5StackCore2) ⭐ 35 \| 🐛 0 \| 🌐 C++ \| 📅 2024-07-23                                                                                                                                                                                                                      |
 | LDRobot LD07            |       |               |                |                            |                 |              |              |         |                  |             |                        |             | [ROS2 driver](https://github.com/Vidicon/ld07_lidar_node) ⭐ 1 \| 🐛 0 \| 🌐 C++ \| 📅 2025-05-15                                                                                                                                                                                                                                  |
 | Mystery LD06            |       |               |                |                            |                 |              |              |         |                  |             |                        |             | [Protocol](https://github.com/Vidicon/weird_LD06) ⭐ 5 \| 🐛 0 \| 📅 2024-09-03                                                                                                                                                                                                                                                    |
@@ -237,14 +237,14 @@ Notes:
 
 ## LDS-006 (Ecovacs Deebot)
 
-* [LDS006 connected to STM32 and LCD; protocol](https://github.com/Aluminum-z/Laser-Radar-LDS-006-Drive-Test) ⭐ 20 | 🐛 0 | 🌐 C | 📅 2021-12-21
+* [LDS006 connected to STM32 and LCD; protocol](https://github.com/Aluminum-z/Laser-Radar-LDS-006-Drive-Test) ⭐ 21 | 🐛 0 | 🌐 C | 📅 2021-12-21
 * [Arduino sketch, Python code, wiring](https://github.com/opravdin/lds-006-reverse-engineering) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2023-09-11
 * [flash LDS-006 with custom firmware](https://github.com/0x416c6578/lds-006-firmware) ⭐ 7 | 🐛 4 | 🌐 C | 📅 2021-11-22
 * [ESP32 library for LDS-006](https://github.com/lemarsienvoyageur/LDS-006-ESP32) ⭐ 2 | 🐛 0 | 🌐 C++ | 📅 2023-05-07
 * [ROS driver](https://github.com/manuelilg/lds006_lidar_driver) ⭐ 0 | 🐛 0 | 🌐 C++ | 📅 2023-03-05
 * [connector wiring](https://0x416c6578.github.io/lds-006/overview.html)
 * [reverse engineering, photos, protocol](https://www.jentsch.io/lds-006-lidar-sensor-reverse-engineering/)
-  * [Python code](https://github.com/msoftware/LDS-006-Lidar-Sensor-Reverse-Engineering) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2023-03-28
+  * [Python code](https://github.com/msoftware/LDS-006-Lidar-Sensor-Reverse-Engineering) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2023-03-28
 
 ## HLS-LFCD2
 
@@ -261,4 +261,4 @@ Notes:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
