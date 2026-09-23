@@ -33,7 +33,7 @@ Please also see this [blog post](https://kaia.ai/blog/arduino-lidar-library/) an
 | YDLIDAR T-mini Pro      | ToF   | 6-12(6)Hz     | 4KHz           | 0.02-4m\@10%-12m\@80%      | 20mm            |              |              | Class 1 | 60K              | 905nm       | 45g                    |             | [Product](https://www.ydlidar.com/products/view/22.html)                                                                                                                                                                                                                                                                          |
 | XIAOMI LDS02RR          | Tria  | 5Hz           | 1.8KHz         | 0.15-6                     |                 | \~$16        |              |         |                  |             |                        |             | Uses Neato protocol                                                                                                                                                                                                                                                                                                               |
 | LDS08RR aka Revo LDS    | Tria  | 5Hz?          | 1.8KHz?        | 0.15-6?                    |                 |              |              |         |                  |             |                        |             | Uses Neato protocol                                                                                                                                                                                                                                                                                                               |
-| XIAOMI LDS01RR          | ToF   | 5Hz           |                | 0.15-9                     |                 | \~$37        | 1,095h       | Class 1 |                  |             |                        |             | [Spec](https://www.youyeetoo.com/blog/lds01rr-lidar-stdps01rmain-108) [ROS2, Win](https://github.com/iliasam/LDS01RR_lidar/tree/main) ⭐ 17 \| 🐛 1 \| 🌐 C++ \| 📅 2026-01-24                                                                                                                                                     |
+| XIAOMI LDS01RR          | ToF   | 5Hz           |                | 0.15-9                     |                 | \~$37        | 1,095h       | Class 1 |                  |             |                        |             | [Spec](https://www.youyeetoo.com/blog/lds01rr-lidar-stdps01rmain-108) [ROS2, Win](https://github.com/iliasam/LDS01RR_lidar/tree/main) ⭐ 18 \| 🐛 1 \| 🌐 C++ \| 📅 2026-01-24                                                                                                                                                     |
 | Neato XV11              | Tria  | 5Hz           | \~2KHz         | 0.15-6?                    |                 | \~$35        |              |         |                  |             | 195g                   |             | [ROS2](https://github.com/mjstn/xv_11_driver) ⭐ 8 \| 🐛 2 \| 🌐 C++ \| 📅 2024-02-19 [Char](https://www.diva-portal.org/smash/get/diva2:995686/FULLTEXT01.pdf)                                                                                                                                                                    |
 | SLAMTEC RPLIDAR A1M8-R4 | Tria  | 1-10Hz        | 8KHz           | 0.15-6                     |                 |              |              | Class 1 |                  |             |                        |             | [PDF](https://www.slamtec.ai/wp-content/uploads/2023/11/LD108_SLAMTEC_rplidar_datasheet_A1M8_v3.0_en.pdf)                                                                                                                                                                                                                         |
 | SLAMTEC RPLIDAR A1M8-R5 | Tria  | 1-10(5.5)Hz   | 8KHz           | 0.15-12                    |                 | \~$99        |              | Class 1 |                  | 785nm       | 170g                   |             | [PDF](https://www.slamtec.ai/wp-content/uploads/2023/11/LD108_SLAMTEC_rplidar_datasheet_A1M8_v3.0_en.pdf)                                                                                                                                                                                                                         |
@@ -92,13 +92,13 @@ Notes:
 
 ## Xiaomi Mi 1st gen LDS02RR
 
-* Unofficial [specs, protocol, 3D model](https://github.com/Roborock-OpenSource/Cullinan) ⭐ 81 | 🐛 3 | 🌐 C | 📅 2020-10-11
+* Unofficial [specs, protocol, 3D model](https://github.com/Roborock-OpenSource/Cullinan) ⭐ 82 | 🐛 3 | 🌐 C | 📅 2020-10-11
 * [Video](https://www.youtube.com/watch?v=gaDnZ4Msw0E) (Arduino, ROS2)
 * Unofficial [3D model](https://grabcad.com/library/lidar-lds02rr-1)
 
 ## Xiaomi Mi LDS01RR
 
-* [Evaluation, Windows viewer](https://github.com/iliasam/LDS01RR_lidar) ⭐ 17 | 🐛 1 | 🌐 C++ | 📅 2026-01-24
+* [Evaluation, Windows viewer](https://github.com/iliasam/LDS01RR_lidar) ⭐ 18 | 🐛 1 | 🌐 C++ | 📅 2026-01-24
 * [Specs](https://www.youyeetoo.com/blog/lds01rr-lidar-stdps01rmain-108)
 * [Specs, SDK, datasheet](https://www.youyeetoo.com/blog/lds01rr-lidar-stdps01rmain-108)
 
@@ -261,4 +261,4 @@ Notes:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
