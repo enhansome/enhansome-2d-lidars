@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "kaiaai",
             "repo": "LDS",
-            "stars": 225,
+            "stars": 224,
             "topics": [
               "3irobotix",
               "arduino-library",
@@ -144,7 +144,7 @@
             "open_issues": 1,
             "owner": "ROBOTIS-GIT",
             "repo": "hls_lfcd_lds_driver",
-            "stars": 104,
+            "stars": 105,
             "topics": [
               "distance",
               "laser",
@@ -513,7 +513,7 @@
             "open_issues": 1,
             "owner": "kaiaai",
             "repo": "LDS",
-            "stars": 225,
+            "stars": 224,
             "topics": [
               "3irobotix",
               "arduino-library",
@@ -1396,7 +1396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T08:33:06.376Z",
+    "last_updated": "2026-09-24T08:25:49.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 2D LiDAR list - specs, protocols, wiring, code, identification photos/videos, performance evaluations",
