@@ -641,7 +641,7 @@
             "open_issues": 1,
             "owner": "YahboomTechnology",
             "repo": "EAI-X3-X3ProLidar",
-            "stars": 18,
+            "stars": 20,
             "topics": [
               "lidar",
               "ros",
@@ -675,7 +675,7 @@
             "open_issues": 1,
             "owner": "YahboomTechnology",
             "repo": "EAI-X3-X3ProLidar",
-            "stars": 18,
+            "stars": 20,
             "topics": [
               "lidar",
               "ros",
@@ -1396,7 +1396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T08:25:49.265Z",
+    "last_updated": "2026-09-25T08:47:52.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 2D LiDAR list - specs, protocols, wiring, code, identification photos/videos, performance evaluations",
