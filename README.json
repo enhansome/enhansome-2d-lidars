@@ -400,36 +400,6 @@
         },
         {
           "node_type": "item",
-          "title": "COIN-D4A",
-          "description": "ToF 10Hz    <$20       Datasheet, Protocol, Driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Awesome 2D LiDAR list - specs, protocols, wiring, code, identification photos/videos, performance evaluations",
-            "homepage": "https://kaia.ai/",
-            "id": 776341662,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2026-07-06T00:59:28Z",
-            "open_issues": 1,
-            "owner": "kaiaai",
-            "repo": "awesome-2d-lidars",
-            "stars": 132,
-            "topics": [
-              "2d-lidar",
-              "arduino",
-              "awesome",
-              "awesome-list",
-              "awesome-lists",
-              "lidar",
-              "ros",
-              "ros2"
-            ]
-          },
-          "first_seen": "2026-08-28T15:20:32.456Z"
-        },
-        {
-          "node_type": "item",
           "title": "Camsense \"Mini 360\"",
           "description": "ToF 10Hz    <$20       Protocol",
           "children": [],
@@ -547,7 +517,7 @@
         {
           "node_type": "item",
           "title": "protocol",
-          "description": null,
+          "description": "Xevel/NXV11",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -574,7 +544,7 @@
         {
           "node_type": "item",
           "title": "Unofficial specs, protocol, 3D model",
-          "description": null,
+          "description": "Roborock-OpenSource/Cullinan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -601,7 +571,7 @@
         {
           "node_type": "item",
           "title": "Evaluation, Windows viewer",
-          "description": null,
+          "description": "iliasam/LDS01RR_lidar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -628,7 +598,7 @@
         {
           "node_type": "item",
           "title": "How to use",
-          "description": null,
+          "description": "YahboomTechnology/EAI-X3-X3ProLidar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -662,7 +632,7 @@
         {
           "node_type": "item",
           "title": "How to use",
-          "description": null,
+          "description": "YahboomTechnology/EAI-X3-X3ProLidar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -698,7 +668,7 @@
             {
               "node_type": "item",
               "title": "official SDK, ROS2 driver",
-              "description": null,
+              "description": "ldrobotSensorTeam/ldlidar_sl_ros2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -734,7 +704,7 @@
                 {
                   "node_type": "item",
                   "title": "SDK and ROS libraries https://github.com/ldrobotSensorTeam/sdk_ld06_raspberry_ros",
-                  "description": null,
+                  "description": "ldrobotSensorTeam/sdk_ld06_raspberry_ros",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -768,7 +738,7 @@
         {
           "node_type": "item",
           "title": "SDK v3.0 for X1, X2, D2",
-          "description": null,
+          "description": "camsense/SDK_V3.0",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -789,7 +759,7 @@
         {
           "node_type": "item",
           "title": "SDK for T2, X1, X2, D2",
-          "description": null,
+          "description": "camsense/T2SDK",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -810,7 +780,7 @@
         {
           "node_type": "item",
           "title": "SDK for L2",
-          "description": null,
+          "description": "camsense/L2SDK",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -831,7 +801,7 @@
         {
           "node_type": "item",
           "title": "ROS2 SDK hclidar X2M",
-          "description": null,
+          "description": "camsense/hclidar_driver_ros2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -852,7 +822,7 @@
         {
           "node_type": "item",
           "title": "ROS1 driver for X2M",
-          "description": null,
+          "description": "camsense/ROS_SDK",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -873,7 +843,7 @@
         {
           "node_type": "item",
           "title": "SDK for D2YE, D3YD, PMA1",
-          "description": null,
+          "description": "camsense/SDK_YJ",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -894,7 +864,7 @@
         {
           "node_type": "item",
           "title": "SDK for D2YE D3YD",
-          "description": null,
+          "description": "camsense/YJ",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -915,7 +885,7 @@
         {
           "node_type": "item",
           "title": "SharkSDK",
-          "description": null,
+          "description": "camsense/SharkSDK",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -936,7 +906,7 @@
         {
           "node_type": "item",
           "title": "ROS1 driver for T2",
-          "description": null,
+          "description": "camsense/T2_ROS1",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -957,7 +927,7 @@
         {
           "node_type": "item",
           "title": "Demo SDK, documentation (Chinese)",
-          "description": null,
+          "description": "camsense/NoiseFilter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -978,7 +948,7 @@
         {
           "node_type": "item",
           "title": "MPro SDK demo",
-          "description": null,
+          "description": "camsense/MproTest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -999,7 +969,7 @@
         {
           "node_type": "item",
           "title": "Camsense USB driver, documentation",
-          "description": null,
+          "description": "camsense/USB_Driver",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1020,7 +990,7 @@
         {
           "node_type": "item",
           "title": "ROS1 SDK X1M, X2M, D2M",
-          "description": null,
+          "description": "camsense/ROS_SDK",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1047,7 +1017,7 @@
         {
           "node_type": "item",
           "title": "ROS2, ROS1, protocol, 3D model",
-          "description": null,
+          "description": "Vidicon/camsense-X1",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1068,7 +1038,7 @@
         {
           "node_type": "item",
           "title": "Camsense X1 with M5 Stack, Arduino code",
-          "description": null,
+          "description": "yishii/LiDAR_Camsense_X1_M5Stack",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1089,7 +1059,7 @@
         {
           "node_type": "item",
           "title": "Python visualization code",
-          "description": null,
+          "description": "IljaRukin/camsense_X1_lidar",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1116,7 +1086,7 @@
         {
           "node_type": "item",
           "title": "3irobotix SDK",
-          "description": null,
+          "description": "Theara-Seng/lidar_sensor_delta_2a",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1137,7 +1107,7 @@
         {
           "node_type": "item",
           "title": "Rust driver",
-          "description": null,
+          "description": "jeroenvervaeke/delta_2a_lidar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1171,7 +1141,7 @@
         {
           "node_type": "item",
           "title": "3irobotix SDK",
-          "description": null,
+          "description": "CWRU-AutonomousVehiclesLab/Delta-2B-Lidar-SDK",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1198,7 +1168,7 @@
         {
           "node_type": "item",
           "title": "communication protocol",
-          "description": null,
+          "description": "NotBlackMagic/Delta-2G-LiDAR-Driver",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1230,7 +1200,7 @@
             {
               "node_type": "item",
               "title": "ROS2, Python, C# drivers",
-              "description": null,
+              "description": "NotBlackMagic/Delta-2G-LiDAR-Driver",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1259,7 +1229,7 @@
         {
           "node_type": "item",
           "title": "LDS006 connected to STM32 and LCD; protocol",
-          "description": null,
+          "description": "Aluminum-z/Laser-Radar-LDS-006-Drive-Test",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1280,7 +1250,7 @@
         {
           "node_type": "item",
           "title": "Arduino sketch, Python code, wiring",
-          "description": null,
+          "description": "opravdin/lds-006-reverse-engineering",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1301,7 +1271,7 @@
         {
           "node_type": "item",
           "title": "flash LDS-006 with custom firmware",
-          "description": null,
+          "description": "0x416c6578/lds-006-firmware",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1324,7 +1294,7 @@
         {
           "node_type": "item",
           "title": "ESP32 library for LDS-006",
-          "description": null,
+          "description": "lemarsienvoyageur/LDS-006-ESP32",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1345,7 +1315,7 @@
         {
           "node_type": "item",
           "title": "ROS driver",
-          "description": null,
+          "description": "manuelilg/lds006_lidar_driver",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1371,7 +1341,7 @@
             {
               "node_type": "item",
               "title": "Python code",
-              "description": null,
+              "description": "msoftware/LDS-006-Lidar-Sensor-Reverse-Engineering",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1396,7 +1366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:43:58.636Z",
+    "last_updated": "2026-10-03T04:21:27.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 2D LiDAR list - specs, protocols, wiring, code, identification photos/videos, performance evaluations",
