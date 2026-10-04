@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "kaiaai",
             "repo": "LDS",
-            "stars": 224,
+            "stars": 225,
             "topics": [
               "3irobotix",
               "arduino-library",
@@ -483,7 +483,7 @@
             "open_issues": 1,
             "owner": "kaiaai",
             "repo": "LDS",
-            "stars": 224,
+            "stars": 225,
             "topics": [
               "3irobotix",
               "arduino-library",
@@ -1366,7 +1366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:07:19.980Z",
+    "last_updated": "2026-10-04T09:45:32.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 2D LiDAR list - specs, protocols, wiring, code, identification photos/videos, performance evaluations",
