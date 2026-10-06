@@ -216,7 +216,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-06-11T21:06:31Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "Myzhar",
             "repo": "ldrobot-lidar-ros2",
             "stars": 105,
@@ -246,7 +246,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-06-11T21:06:31Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "Myzhar",
             "repo": "ldrobot-lidar-ros2",
             "stars": 105,
@@ -276,7 +276,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-06-11T21:06:31Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "Myzhar",
             "repo": "ldrobot-lidar-ros2",
             "stars": 105,
@@ -1366,7 +1366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T10:23:41.879Z",
+    "last_updated": "2026-10-06T10:13:05.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 2D LiDAR list - specs, protocols, wiring, code, identification photos/videos, performance evaluations",
