@@ -144,7 +144,7 @@
             "open_issues": 1,
             "owner": "ROBOTIS-GIT",
             "repo": "hls_lfcd_lds_driver",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "distance",
               "laser",
@@ -174,7 +174,7 @@
             "open_issues": 1,
             "owner": "ROBOTIS-GIT",
             "repo": "ld08_driver",
-            "stars": 12,
+            "stars": 13,
             "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
@@ -435,7 +435,7 @@
             "open_issues": 0,
             "owner": "Vidicon",
             "repo": "ld07_lidar_node",
-            "stars": 1,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
@@ -1366,7 +1366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T10:30:57.755Z",
+    "last_updated": "2026-10-10T09:48:14.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 2D LiDAR list - specs, protocols, wiring, code, identification photos/videos, performance evaluations",
