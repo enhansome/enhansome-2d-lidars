@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "kaiaai",
             "repo": "LDS",
-            "stars": 226,
+            "stars": 227,
             "topics": [
               "3irobotix",
               "arduino-library",
@@ -219,7 +219,7 @@
             "open_issues": 3,
             "owner": "Myzhar",
             "repo": "ldrobot-lidar-ros2",
-            "stars": 106,
+            "stars": 107,
             "topics": [
               "laser",
               "ld-air",
@@ -249,7 +249,7 @@
             "open_issues": 3,
             "owner": "Myzhar",
             "repo": "ldrobot-lidar-ros2",
-            "stars": 106,
+            "stars": 107,
             "topics": [
               "laser",
               "ld-air",
@@ -279,7 +279,7 @@
             "open_issues": 3,
             "owner": "Myzhar",
             "repo": "ldrobot-lidar-ros2",
-            "stars": 106,
+            "stars": 107,
             "topics": [
               "laser",
               "ld-air",
@@ -483,7 +483,7 @@
             "open_issues": 1,
             "owner": "kaiaai",
             "repo": "LDS",
-            "stars": 226,
+            "stars": 227,
             "topics": [
               "3irobotix",
               "arduino-library",
@@ -1366,7 +1366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T09:58:30.928Z",
+    "last_updated": "2026-10-12T10:46:15.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 2D LiDAR list - specs, protocols, wiring, code, identification photos/videos, performance evaluations",
