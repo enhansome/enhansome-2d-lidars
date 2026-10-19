@@ -123,7 +123,7 @@
             "open_issues": 0,
             "owner": "NotBlackMagic",
             "repo": "Delta-2G-LiDAR-Driver",
-            "stars": 11,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
@@ -1181,7 +1181,7 @@
             "open_issues": 0,
             "owner": "NotBlackMagic",
             "repo": "Delta-2G-LiDAR-Driver",
-            "stars": 11,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-28T15:20:32.456Z"
@@ -1213,7 +1213,7 @@
                 "open_issues": 0,
                 "owner": "NotBlackMagic",
                 "repo": "Delta-2G-LiDAR-Driver",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:20:32.456Z"
@@ -1366,7 +1366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T07:59:45.276Z",
+    "last_updated": "2026-10-19T08:49:48.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 2D LiDAR list - specs, protocols, wiring, code, identification photos/videos, performance evaluations",
@@ -1378,7 +1378,7 @@
       "open_issues": 1,
       "owner": "kaiaai",
       "repo": "awesome-2d-lidars",
-      "stars": 132,
+      "stars": 133,
       "topics": [
         "2d-lidar",
         "arduino",
