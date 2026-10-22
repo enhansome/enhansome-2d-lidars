@@ -1366,7 +1366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T08:32:35.244Z",
+    "last_updated": "2026-10-22T08:34:37.562Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 2D LiDAR list - specs, protocols, wiring, code, identification photos/videos, performance evaluations",
@@ -1378,7 +1378,7 @@
       "open_issues": 1,
       "owner": "kaiaai",
       "repo": "awesome-2d-lidars",
-      "stars": 133,
+      "stars": 134,
       "topics": [
         "2d-lidar",
         "arduino",
