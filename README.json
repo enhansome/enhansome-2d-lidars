@@ -219,7 +219,7 @@
             "open_issues": 3,
             "owner": "Myzhar",
             "repo": "ldrobot-lidar-ros2",
-            "stars": 108,
+            "stars": 109,
             "topics": [
               "laser",
               "ld-air",
@@ -249,7 +249,7 @@
             "open_issues": 3,
             "owner": "Myzhar",
             "repo": "ldrobot-lidar-ros2",
-            "stars": 108,
+            "stars": 109,
             "topics": [
               "laser",
               "ld-air",
@@ -279,7 +279,7 @@
             "open_issues": 3,
             "owner": "Myzhar",
             "repo": "ldrobot-lidar-ros2",
-            "stars": 108,
+            "stars": 109,
             "topics": [
               "laser",
               "ld-air",
@@ -1366,7 +1366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T10:25:36.828Z",
+    "last_updated": "2026-11-02T10:59:58.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 2D LiDAR list - specs, protocols, wiring, code, identification photos/videos, performance evaluations",
