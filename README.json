@@ -140,8 +140,8 @@
             "id": 75682625,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-11T01:24:23Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-12T03:31:21Z",
+            "open_issues": 0,
             "owner": "ROBOTIS-GIT",
             "repo": "hls_lfcd_lds_driver",
             "stars": 107,
@@ -170,8 +170,8 @@
             "id": 455466035,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T10:06:58Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-12T03:31:14Z",
+            "open_issues": 0,
             "owner": "ROBOTIS-GIT",
             "repo": "ld08_driver",
             "stars": 14,
@@ -1366,7 +1366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T10:54:27.426Z",
+    "last_updated": "2026-11-12T11:03:22.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome 2D LiDAR list - specs, protocols, wiring, code, identification photos/videos, performance evaluations",
